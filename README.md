@@ -43,7 +43,7 @@
 
 ### Name: Dharini PV
 ### Reg no: 212222240024
-```
+```py
 class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
